@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/DomenicoSan/qr-code-component-02)
-- Live Site URL: [Add live site URL here](https://domenicosan.github.io/qr-code-component-02/)
+- Solution URL: (https://github.com/DomenicoSan/qr-code-component-02)
+- Live Site URL: (https://domenicosan.github.io/qr-code-component-02/)
 
 ## My process
 
@@ -43,5 +43,5 @@ now have learned how to center all with the flexbox
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/DomenicoSan)
+- Frontend Mentor - [@DomenicoSan](https://www.frontendmentor.io/profile/DomenicoSan)
 
